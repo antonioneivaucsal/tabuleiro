@@ -20,6 +20,12 @@ public class PecaPadrao implements Peca {
 
 	private Color corBorda;
 
+	/**
+	 * Peça padrão.
+	 * @param cor
+	 * @param corBorda
+	 * @param tamanho
+	 */
 	public PecaPadrao(Color cor, Color corBorda, int tamanho) {
 		super();
 		this.cor = cor;
