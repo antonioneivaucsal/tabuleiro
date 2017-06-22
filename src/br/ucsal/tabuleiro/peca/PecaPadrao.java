@@ -12,7 +12,7 @@ public class PecaPadrao implements Peca {
 
 	private static final Color COR_PADRAO = Color.RED;
 
-	private static final Color COR_BORDA_PADRAO = Color.BLACK;
+	private static final Color COR_BORDA_PADRAO = Color.BLUE;
 
 	private Color cor;
 
