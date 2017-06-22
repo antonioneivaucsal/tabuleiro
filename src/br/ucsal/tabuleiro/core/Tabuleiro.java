@@ -41,6 +41,8 @@ public class Tabuleiro extends JPanel {
 	 * 
 	 * @param largura
 	 *            - Lagura total do tabuleiro.
+	 * @param qtdCasas
+	 * 			  - Quantidade de casas do tabuleiro.
 	 */
 	public Tabuleiro(int largura, int qtdCasas) {
 		super();
