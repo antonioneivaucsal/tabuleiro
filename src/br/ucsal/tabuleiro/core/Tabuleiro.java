@@ -19,7 +19,7 @@ public class Tabuleiro extends JPanel {
 
 	private static final Color COR2_PADRAO = Color.LIGHT_GRAY;
 
-	private static final Color COR_CASA_SELECIONADA_PADRAO = Color.RED;
+	private static final Color COR_CASA_SELECIONADA_PADRAO = Color.GREEN;
 
 	private Casa[][] casasTabuleiro;
 
